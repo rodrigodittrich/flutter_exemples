@@ -20,4 +20,6 @@ CustomCardWidget(),
 **Widget usando outra cor e outro ícone:**
 CustomCardWidget(icon: Icons.notification_add, leftBorderColor: Colors.green)
 
+**Exemplo final:**
 
+![Exemple](https://github.com/rodrigodittrich/flutter_exemples/blob/main/custom_card_widget/assets/doc/Exemplo.png)
